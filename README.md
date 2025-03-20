@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 👋
+I am a heliophysics researcher, who is currently working on datamining spacecraft measurements of the solar wind using machine learning algorithms. I'm particularly interested in investigating the origins of the solar wind, and would be happy to discuss possible collaboration on topics related to working with solar wind measurements. I am currently learning more about IDL, SQL and large database management, and am looking for help getting started with developing for generative AI algorithms and LLMs. 
+
+Let's connect on LinkedIn: 
+https://www.linkedin.com/in/daniel-carpenter-20346a328/
 
 <!--
 **DCarSunDr/DCarSunDr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
